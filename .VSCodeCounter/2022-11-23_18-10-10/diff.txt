@@ -1,0 +1,125 @@
+Date : 2022-11-23 18:10:10
+Directory : /home/mdd/文档/flutter/iot
+Total : 49 files,  1509 codes, 283 comments, 286 blanks, all 2078 lines
+
+Languages
++-----------------+------------+------------+------------+------------+------------+
+| language        | files      | code       | comment    | blank      | total      |
++-----------------+------------+------------+------------+------------+------------+
+| C++             |         16 |        502 |        107 |        170 |        779 |
+| XML             |         10 |        475 |         48 |         13 |        536 |
+| JSON            |          4 |        248 |          0 |          4 |        252 |
+| Groovy          |          3 |         89 |          6 |         23 |        118 |
+| Swift           |          4 |         44 |          3 |         12 |         59 |
+| CMake           |          2 |         37 |          0 |         12 |         49 |
+| HTML            |          1 |         37 |         16 |          6 |         59 |
+| YAML            |          2 |         25 |         84 |         21 |        130 |
+| Dart            |          1 |         14 |         10 |          7 |         31 |
+| Markdown        |          2 |         13 |          0 |          9 |         22 |
+| Java            |          1 |         13 |          9 |          4 |         26 |
+| Java Properties |          2 |          8 |          0 |          2 |         10 |
+| Kotlin          |          1 |          4 |          0 |          3 |          7 |
++-----------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                              | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                 |         49 |      1,509 |        283 |        286 |      2,078 |
+| android                                                                                           |         14 |        185 |         61 |         42 |        288 |
+| android/app                                                                                       |         10 |        142 |         61 |         31 |        234 |
+| android/app/src                                                                                   |          9 |         88 |         55 |         17 |        160 |
+| android/app/src/debug                                                                             |          1 |          4 |          4 |          1 |          9 |
+| android/app/src/main                                                                              |          7 |         80 |         47 |         15 |        142 |
+| android/app/src/main/java                                                                         |          1 |         13 |          9 |          4 |         26 |
+| android/app/src/main/java/io                                                                      |          1 |         13 |          9 |          4 |         26 |
+| android/app/src/main/java/io/flutter                                                              |          1 |         13 |          9 |          4 |         26 |
+| android/app/src/main/java/io/flutter/app                                                          |          1 |         13 |          9 |          4 |         26 |
+| android/app/src/main/kotlin                                                                       |          1 |          4 |          0 |          3 |          7 |
+| android/app/src/main/kotlin/com                                                                   |          1 |          4 |          0 |          3 |          7 |
+| android/app/src/main/kotlin/com/example                                                           |          1 |          4 |          0 |          3 |          7 |
+| android/app/src/main/kotlin/com/example/iot                                                       |          1 |          4 |          0 |          3 |          7 |
+| android/app/src/main/res                                                                          |          4 |         26 |         32 |          6 |         64 |
+| android/app/src/main/res/drawable                                                                 |          1 |          4 |          7 |          2 |         13 |
+| android/app/src/main/res/drawable-v21                                                             |          1 |          4 |          7 |          2 |         13 |
+| android/app/src/main/res/values                                                                   |          1 |          9 |          9 |          1 |         19 |
+| android/app/src/main/res/values-night                                                             |          1 |          9 |          9 |          1 |         19 |
+| android/app/src/profile                                                                           |          1 |          4 |          4 |          1 |          9 |
+| android/gradle                                                                                    |          1 |          5 |          0 |          1 |          6 |
+| android/gradle/wrapper                                                                            |          1 |          5 |          0 |          1 |          6 |
+| ios                                                                                               |          7 |        222 |          2 |          9 |        233 |
+| ios/Runner                                                                                        |          7 |        222 |          2 |          9 |        233 |
+| ios/Runner/Assets.xcassets                                                                        |          3 |        148 |          0 |          4 |        152 |
+| ios/Runner/Assets.xcassets/AppIcon.appiconset                                                     |          1 |        122 |          0 |          1 |        123 |
+| ios/Runner/Assets.xcassets/LaunchImage.imageset                                                   |          2 |         26 |          0 |          3 |         29 |
+| ios/Runner/Base.lproj                                                                             |          2 |         61 |          2 |          2 |         65 |
+| linux                                                                                             |          6 |        112 |         27 |         44 |        183 |
+| linux/flutter                                                                                     |          3 |         26 |          9 |         17 |         52 |
+| macos                                                                                             |          5 |        443 |          3 |         12 |        458 |
+| macos/Flutter                                                                                     |          1 |         12 |          3 |          4 |         19 |
+| macos/Runner                                                                                      |          4 |        431 |          0 |          8 |        439 |
+| macos/Runner/Assets.xcassets                                                                      |          1 |         68 |          0 |          1 |         69 |
+| macos/Runner/Assets.xcassets/AppIcon.appiconset                                                   |          1 |         68 |          0 |          1 |         69 |
+| macos/Runner/Base.lproj                                                                           |          1 |        343 |          0 |          1 |        344 |
+| test                                                                                              |          1 |         14 |         10 |          7 |         31 |
+| web                                                                                               |          2 |         72 |         16 |          7 |         95 |
+| windows                                                                                           |         11 |        426 |         80 |        137 |        643 |
+| windows/flutter                                                                                   |          3 |         30 |          9 |         17 |         56 |
+| windows/runner                                                                                    |          8 |        396 |         71 |        120 |        587 |
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| filename                                                                                          | language        | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| /home/mdd/文档/flutter/iot/README.md                                                                | Markdown        |         10 |          0 |          7 |         17 |
+| /home/mdd/文档/flutter/iot/analysis_options.yaml                                                    | YAML            |          3 |         23 |          4 |         30 |
+| /home/mdd/文档/flutter/iot/android/app/build.gradle                                                 | Groovy          |         54 |          6 |         14 |         74 |
+| /home/mdd/文档/flutter/iot/android/app/src/debug/AndroidManifest.xml                                | XML             |          4 |          4 |          1 |          9 |
+| /home/mdd/文档/flutter/iot/android/app/src/main/AndroidManifest.xml                                 | XML             |         37 |          6 |          2 |         45 |
+| /home/mdd/文档/flutter/iot/android/app/src/main/java/io/flutter/app/FlutterMultiDexApplication.java | Java            |         13 |          9 |          4 |         26 |
+| /home/mdd/文档/flutter/iot/android/app/src/main/kotlin/com/example/iot/MainActivity.kt              | Kotlin          |          4 |          0 |          3 |          7 |
+| /home/mdd/文档/flutter/iot/android/app/src/main/res/drawable-v21/launch_background.xml              | XML             |          4 |          7 |          2 |         13 |
+| /home/mdd/文档/flutter/iot/android/app/src/main/res/drawable/launch_background.xml                  | XML             |          4 |          7 |          2 |         13 |
+| /home/mdd/文档/flutter/iot/android/app/src/main/res/values-night/styles.xml                         | XML             |          9 |          9 |          1 |         19 |
+| /home/mdd/文档/flutter/iot/android/app/src/main/res/values/styles.xml                               | XML             |          9 |          9 |          1 |         19 |
+| /home/mdd/文档/flutter/iot/android/app/src/profile/AndroidManifest.xml                              | XML             |          4 |          4 |          1 |          9 |
+| /home/mdd/文档/flutter/iot/android/build.gradle                                                     | Groovy          |         27 |          0 |          5 |         32 |
+| /home/mdd/文档/flutter/iot/android/gradle.properties                                                | Java Properties |          3 |          0 |          1 |          4 |
+| /home/mdd/文档/flutter/iot/android/gradle/wrapper/gradle-wrapper.properties                         | Java Properties |          5 |          0 |          1 |          6 |
+| /home/mdd/文档/flutter/iot/android/settings.gradle                                                  | Groovy          |          8 |          0 |          4 |         12 |
+| /home/mdd/文档/flutter/iot/ios/Runner/AppDelegate.swift                                             | Swift           |         12 |          0 |          2 |         14 |
+| /home/mdd/文档/flutter/iot/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json              | JSON            |        122 |          0 |          1 |        123 |
+| /home/mdd/文档/flutter/iot/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json            | JSON            |         23 |          0 |          1 |         24 |
+| /home/mdd/文档/flutter/iot/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md                | Markdown        |          3 |          0 |          2 |          5 |
+| /home/mdd/文档/flutter/iot/ios/Runner/Base.lproj/LaunchScreen.storyboard                            | XML             |         36 |          1 |          1 |         38 |
+| /home/mdd/文档/flutter/iot/ios/Runner/Base.lproj/Main.storyboard                                    | XML             |         25 |          1 |          1 |         27 |
+| /home/mdd/文档/flutter/iot/ios/Runner/Runner-Bridging-Header.h                                      | C++             |          1 |          0 |          1 |          2 |
+| /home/mdd/文档/flutter/iot/linux/flutter/generated_plugin_registrant.cc                             | C++             |          3 |          4 |          5 |         12 |
+| /home/mdd/文档/flutter/iot/linux/flutter/generated_plugin_registrant.h                              | C++             |          5 |          5 |          6 |         16 |
+| /home/mdd/文档/flutter/iot/linux/flutter/generated_plugins.cmake                                    | CMake           |         18 |          0 |          6 |         24 |
+| /home/mdd/文档/flutter/iot/linux/main.cc                                                            | C++             |          5 |          0 |          2 |          7 |
+| /home/mdd/文档/flutter/iot/linux/my_application.cc                                                  | C++             |         74 |         11 |         20 |        105 |
+| /home/mdd/文档/flutter/iot/linux/my_application.h                                                   | C++             |          7 |          7 |          5 |         19 |
+| /home/mdd/文档/flutter/iot/macos/Flutter/GeneratedPluginRegistrant.swift                            | Swift           |         12 |          3 |          4 |         19 |
+| /home/mdd/文档/flutter/iot/macos/Runner/AppDelegate.swift                                           | Swift           |          8 |          0 |          2 |         10 |
+| /home/mdd/文档/flutter/iot/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json            | JSON            |         68 |          0 |          1 |         69 |
+| /home/mdd/文档/flutter/iot/macos/Runner/Base.lproj/MainMenu.xib                                     | XML             |        343 |          0 |          1 |        344 |
+| /home/mdd/文档/flutter/iot/macos/Runner/MainFlutterWindow.swift                                     | Swift           |         12 |          0 |          4 |         16 |
+| /home/mdd/文档/flutter/iot/pubspec.yaml                                                             | YAML            |         22 |         61 |         17 |        100 |
+| /home/mdd/文档/flutter/iot/test/widget_test.dart                                                    | Dart            |         14 |         10 |          7 |         31 |
+| /home/mdd/文档/flutter/iot/web/index.html                                                           | HTML            |         37 |         16 |          6 |         59 |
+| /home/mdd/文档/flutter/iot/web/manifest.json                                                        | JSON            |         35 |          0 |          1 |         36 |
+| /home/mdd/文档/flutter/iot/windows/flutter/generated_plugin_registrant.cc                           | C++             |          6 |          4 |          5 |         15 |
+| /home/mdd/文档/flutter/iot/windows/flutter/generated_plugin_registrant.h                            | C++             |          5 |          5 |          6 |         16 |
+| /home/mdd/文档/flutter/iot/windows/flutter/generated_plugins.cmake                                  | CMake           |         19 |          0 |          6 |         25 |
+| /home/mdd/文档/flutter/iot/windows/runner/flutter_window.cpp                                        | C++             |         45 |          4 |         13 |         62 |
+| /home/mdd/文档/flutter/iot/windows/runner/flutter_window.h                                          | C++             |         20 |          5 |          9 |         34 |
+| /home/mdd/文档/flutter/iot/windows/runner/main.cpp                                                  | C++             |         30 |          4 |         10 |         44 |
+| /home/mdd/文档/flutter/iot/windows/runner/resource.h                                                | C++             |          9 |          6 |          2 |         17 |
+| /home/mdd/文档/flutter/iot/windows/runner/utils.cpp                                                 | C++             |         53 |          2 |         10 |         65 |
+| /home/mdd/文档/flutter/iot/windows/runner/utils.h                                                   | C++             |          8 |          6 |          6 |         20 |
+| /home/mdd/文档/flutter/iot/windows/runner/win32_window.cpp                                          | C++             |        183 |         15 |         48 |        246 |
+| /home/mdd/文档/flutter/iot/windows/runner/win32_window.h                                            | C++             |         48 |         29 |         22 |         99 |
+| Total                                                                                             |                 |      1,509 |        283 |        286 |      2,078 |
++---------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
