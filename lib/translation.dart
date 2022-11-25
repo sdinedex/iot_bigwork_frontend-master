@@ -12,8 +12,8 @@ class Translation {
     var Timestamp = dateTime.millisecondsSinceEpoch.toString().substring(0, 10);
     var Algorithm = "TC3-HMAC-SHA256";
     var CredentialScope = "$date/tmt/tc3_request";
-    String SecretKey = "EOYZK5jWUO7wcDuW5YMAydHpBczQmyzt";
-    String SecretId = "AKIDSrEf2Oh2S0UuIfBexJj0GSZYSTRKPWdl";
+    String SecretKey = " ";
+    String SecretId = " ";
 
     String HTTPRequestMethod = "POST";
     String CanonicalURI = "/";
