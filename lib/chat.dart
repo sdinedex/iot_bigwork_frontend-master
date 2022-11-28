@@ -18,6 +18,7 @@ class Chat extends StatefulWidget {
   State<Chat> createState() => _ChatState();
 }
 
+
 Widget _buildItem(BuildContext context, int i) {
   return Column(
     crossAxisAlignment:
