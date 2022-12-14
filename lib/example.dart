@@ -51,6 +51,7 @@ typedef _Fn = void Function();
 //const theSource = AudioSource.voiceDownlink;
 
 const theSource = AudioSource.microphone;
+const a = "a";
 
 /// Example app.
 class SimpleRecorder extends StatefulWidget {
