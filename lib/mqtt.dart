@@ -4,6 +4,8 @@ import 'package:iot/values.dart';
 import 'package:mqtt_client/mqtt_client.dart';
 import 'package:mqtt_client/mqtt_server_client.dart';
 
+const String = "a";
+
 class Mqtt {
   static MqttServerClient client = MqttServerClient(Values.brokerIp, "1883");
 
